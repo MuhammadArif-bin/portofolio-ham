@@ -32,7 +32,7 @@ export default function Timeline() {
           <div className="relative flex items-center mb-16 group">
             <div className="hidden md:block w-1/2 pr-12 text-right">
               <div className="p-4 bg-surface-container-lowest rounded-lg border-r-4 border-primary shadow-sm">
-                <span className="material-symbols-outlined text-primary" style={{ fontVariationSettings: "'FILL' 1" }}>workspace_premium</span>
+                <span className="material-symbols-outlined material-symbols-fill text-primary">workspace_premium</span>
                 <p className="text-xs font-bold text-primary mt-1">Certified Developer</p>
               </div>
             </div>
